@@ -1,0 +1,22 @@
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\bin\Debug\Intraway Internet.exe
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\bin\Debug\Intraway Internet.pdb
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\bin\Debug\Intraway Internet.xml
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\obj\x86\Debug\Intraway_Internet.Form1.resources
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\obj\x86\Debug\Intraway_Internet.Resources.resources
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\obj\x86\Debug\Intraway Internet.vbproj.GenerateResource.Cache
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\obj\x86\Debug\Intraway Internet.exe
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\obj\x86\Debug\Intraway Internet.xml
+C:\Users\win7testing\AppData\Local\Temporary Projects\Intraway Internet\obj\x86\Debug\Intraway Internet.pdb
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\obj\x86\Debug\Intraway Internet.exe
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\obj\x86\Debug\Intraway Internet.xml
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\obj\x86\Debug\Intraway Internet.pdb
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\bin\Debug\Intraway Internet.exe
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\bin\Debug\Intraway Internet.pdb
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\bin\Debug\Intraway Internet.xml
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\obj\x86\Debug\Intraway_Internet.Form1.resources
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\obj\x86\Debug\Intraway_Internet.Resources.resources
+C:\Users\win7testing\documents\visual studio 2010\Projects\Intraway Internet\Intraway Internet\obj\x86\Debug\Intraway Internet.vbproj.GenerateResource.Cache
+C:\Users\win7testing\Documents\Visual Studio 2010\Projects\Intraway Internet\Intraway Internet\bin\Debug\Intraway Internet.exe.manifest
+C:\Users\win7testing\Documents\Visual Studio 2010\Projects\Intraway Internet\Intraway Internet\bin\Debug\Intraway Internet.application
+C:\Users\win7testing\Documents\Visual Studio 2010\Projects\Intraway Internet\Intraway Internet\obj\x86\Debug\Intraway Internet.exe.manifest
+C:\Users\win7testing\Documents\Visual Studio 2010\Projects\Intraway Internet\Intraway Internet\obj\x86\Debug\Intraway Internet.application
